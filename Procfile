@@ -1,0 +1,1 @@
+web: gunicorn cicd_middle_test.wsgi --log-file -
